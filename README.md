@@ -1,2 +1,1 @@
-# cursog
-curso nuevo henry
+este es un proyecto de prueba
